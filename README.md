@@ -1,0 +1,2 @@
+# dailyblogger
+My Static Website
